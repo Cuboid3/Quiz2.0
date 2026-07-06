@@ -1,0 +1,31 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Python (caso tenha usado ambiente virtual)
+.venv/
+venv/
+__pycache__/
+*.pyc
